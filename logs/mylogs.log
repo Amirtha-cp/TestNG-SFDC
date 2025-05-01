@@ -1,0 +1,730 @@
+20250328 19:06:07 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250328 19:06:07 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250328 19:06:07 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250328 19:20:58 INFO  [main] Utility.SFDCListeners SFDCListeners.java20 - Suite-Chrome started...............
+20250328 19:21:57 INFO  [main] Utility.SFDCListeners SFDCListeners.java20 - Suite-Chrome started...............
+20250328 20:43:34 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250328 20:43:34 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250328 20:43:34 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250328 20:44:47 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250328 20:44:47 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250328 20:44:47 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250328 20:45:00 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250328 20:45:00 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250328 20:45:00 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250328 20:45:29 INFO  [main] Utility.SFDCListeners SFDCListeners.java20 - Suite-Chrome started for SFDC Developers Edition Web App Testing.
+20250328 20:48:10 INFO  [main] Utility.SFDCListeners SFDCListeners.java20 - Suite-Chrome started for SFDC Developers Edition Web App Testing.
+20250328 20:48:10 INFO  [main] Utility.SFDCListeners SFDCListeners.java69 - Test-Chrome
+20250328 20:48:10 INFO  [main] Utility.SFDCListeners SFDCListeners.java70 - class org.testng.TestRunner
+20250328 20:48:10 DEBUG [TestNG-test-Test-Chrome-1] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250328 20:48:10 DEBUG [TestNG-test-Test-Chrome-1] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250328 20:48:10 DEBUG [TestNG-test-Test-Chrome-1] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250328 20:48:14 INFO  [TestNG-test-Test-Chrome-1] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmathod().getmethodName()
+20250328 20:48:14 INFO  [TestNG-test-Test-Chrome-1] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 20:48:14 ERROR [TestNG-test-Test-Chrome-1] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 20:48:14 ERROR [TestNG-test-Test-Chrome-1] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 20:50:51 INFO  [main] Utility.SFDCListeners SFDCListeners.java20 - Suite-Chrome started for SFDC Developers Edition Web App Testing.
+20250328 20:50:52 INFO  [main] Utility.SFDCListeners SFDCListeners.java69 - Test-Chrome
+20250328 20:50:52 INFO  [main] Utility.SFDCListeners SFDCListeners.java70 - class org.testng.TestRunner
+20250328 20:50:52 DEBUG [TestNG-test-Test-Chrome-1] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250328 20:50:52 DEBUG [TestNG-test-Test-Chrome-1] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250328 20:50:52 DEBUG [TestNG-test-Test-Chrome-1] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250328 20:50:55 INFO  [TestNG-test-Test-Chrome-1] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 20:50:55 INFO  [TestNG-test-Test-Chrome-1] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 20:50:55 ERROR [TestNG-test-Test-Chrome-1] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 20:50:55 ERROR [TestNG-test-Test-Chrome-1] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 20:51:46 INFO  [main] Utility.SFDCListeners SFDCListeners.java20 - Suite-Chrome started for SFDC Developers Edition Web App Testing.
+20250328 20:51:46 INFO  [main] Utility.SFDCListeners SFDCListeners.java69 - Test-Chrome
+20250328 20:51:46 INFO  [main] Utility.SFDCListeners SFDCListeners.java70 - class org.testng.TestRunner
+20250328 20:51:46 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250328 20:51:46 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250328 20:51:46 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250328 20:51:50 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 20:51:50 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 20:51:50 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 20:51:50 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 20:51:50 INFO  [main] Utility.SFDCListeners SFDCListeners.java78 - Test-Chrome
+20250328 20:51:50 INFO  [main] Utility.SFDCListeners SFDCListeners.java79 - class org.testng.TestRunner
+20250328 20:51:50 INFO  [main] Utility.SFDCListeners SFDCListeners.java26 - Suite-Chrome endedfor SFDC Developers Edition Web App Testing.
+20250328 21:00:59 INFO  [main] Utility.SFDCListeners SFDCListeners.java20 - Suite-Chrome started for SFDC Developers Edition Web App Testing.
+20250328 21:00:59 INFO  [main] Utility.SFDCListeners SFDCListeners.java68 - Test-Chrome
+20250328 21:00:59 INFO  [main] Utility.SFDCListeners SFDCListeners.java69 - class org.testng.TestRunner
+20250328 21:00:59 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250328 21:00:59 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250328 21:00:59 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250328 21:01:05 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:01:05 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:01:05 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:01:05 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:01:05 INFO  [main] Utility.SFDCListeners SFDCListeners.java77 - Test-Chrome
+20250328 21:01:05 INFO  [main] Utility.SFDCListeners SFDCListeners.java78 - class org.testng.TestRunner
+20250328 21:01:05 INFO  [main] Utility.SFDCListeners SFDCListeners.java26 - Suite-Chrome endedfor SFDC Developers Edition Web App Testing.
+20250328 21:05:02 INFO  [main] Utility.SFDCListeners SFDCListeners.java20 - Suite-Chrome started for SFDC Developers Edition Web App Testing.
+20250328 21:05:02 INFO  [main] Utility.SFDCListeners SFDCListeners.java68 - Test-Chrome
+20250328 21:05:02 INFO  [main] Utility.SFDCListeners SFDCListeners.java69 - class org.testng.TestRunner
+20250328 21:05:02 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250328 21:05:02 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250328 21:05:02 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250328 21:05:06 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:05:06 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:05:06 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:05:06 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:05:06 INFO  [main] Utility.SFDCListeners SFDCListeners.java77 - Test-Chrome
+20250328 21:05:06 INFO  [main] Utility.SFDCListeners SFDCListeners.java78 - class org.testng.TestRunner
+20250328 21:05:06 INFO  [main] Utility.SFDCListeners SFDCListeners.java26 - Suite-Chrome endedfor SFDC Developers Edition Web App Testing.
+20250328 21:07:20 INFO  [main] Utility.SFDCListeners SFDCListeners.java20 - Suite-Chrome started for SFDC Developers Edition Web App Testing.
+20250328 21:07:20 INFO  [main] Utility.SFDCListeners SFDCListeners.java68 - Test-Chrome
+20250328 21:07:20 INFO  [main] Utility.SFDCListeners SFDCListeners.java69 - class org.testng.TestRunner
+20250328 21:07:20 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250328 21:07:20 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250328 21:07:20 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250328 21:07:24 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:07:24 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:07:30 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:07:30 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:07:36 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:07:36 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:07:44 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:07:44 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:07:50 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:07:50 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:07:57 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:07:57 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:08:02 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:08:02 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:08:08 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:08:08 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:08:14 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:08:14 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:08:20 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:08:20 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:08:23 INFO  [main] Utility.SFDCListeners SFDCListeners.java77 - Test-Chrome
+20250328 21:08:23 INFO  [main] Utility.SFDCListeners SFDCListeners.java78 - class org.testng.TestRunner
+20250328 21:08:23 INFO  [main] Utility.SFDCListeners SFDCListeners.java68 - Test-Firefox
+20250328 21:08:23 INFO  [main] Utility.SFDCListeners SFDCListeners.java69 - class org.testng.TestRunner
+20250328 21:08:23 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250328 21:08:23 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250328 21:08:23 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250328 21:08:31 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:08:31 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:08:40 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:08:40 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:08:48 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:08:48 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:08:57 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:08:57 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:09:06 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:09:06 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:09:15 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:09:15 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:09:24 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:09:24 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:09:35 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:09:35 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:09:44 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:09:44 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:09:54 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:09:54 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:09:58 INFO  [main] Utility.SFDCListeners SFDCListeners.java77 - Test-Firefox
+20250328 21:09:58 INFO  [main] Utility.SFDCListeners SFDCListeners.java78 - class org.testng.TestRunner
+20250328 21:09:58 INFO  [main] Utility.SFDCListeners SFDCListeners.java26 - Suite-Chrome endedfor SFDC Developers Edition Web App Testing.
+20250328 21:28:45 INFO  [main] Utility.SFDCListeners SFDCListeners.java20 - Suite-Chrome started for SFDC Developers Edition Web App Testing.
+20250328 21:28:45 INFO  [main] Utility.SFDCListeners SFDCListeners.java68 - Test-Chrome
+20250328 21:28:45 INFO  [main] Utility.SFDCListeners SFDCListeners.java69 - class org.testng.TestRunner
+20250328 21:28:45 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250328 21:28:45 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250328 21:28:45 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250328 21:28:49 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:28:49 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:28:52 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:28:53 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:28:59 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:28:59 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:29:02 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:29:02 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:29:08 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:29:08 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:29:11 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:29:11 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:29:17 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:29:17 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:29:20 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:29:20 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:29:26 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:29:26 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:29:29 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:29:30 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:29:36 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:29:36 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:29:39 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:29:39 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:29:45 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:29:45 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:29:48 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:29:48 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:29:54 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:29:54 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:29:57 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:29:57 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:30:03 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:30:03 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:30:06 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:30:07 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:30:12 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:30:12 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:30:15 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:30:16 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:30:19 INFO  [main] Utility.SFDCListeners SFDCListeners.java77 - Test-Chrome
+20250328 21:30:19 INFO  [main] Utility.SFDCListeners SFDCListeners.java78 - class org.testng.TestRunner
+20250328 21:30:19 INFO  [main] Utility.SFDCListeners SFDCListeners.java68 - Test-Firefox
+20250328 21:30:19 INFO  [main] Utility.SFDCListeners SFDCListeners.java69 - class org.testng.TestRunner
+20250328 21:30:19 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250328 21:30:19 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250328 21:30:19 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250328 21:30:25 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:30:25 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:30:28 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:30:29 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:30:38 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:30:38 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:30:41 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:30:41 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:30:51 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:30:51 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:30:54 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:30:54 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:31:02 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:31:02 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:31:05 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:31:05 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:31:14 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:31:14 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:31:17 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:31:17 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:31:25 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:31:25 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:31:28 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:31:28 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:31:38 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:31:38 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:31:41 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:31:41 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:31:50 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:31:50 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:31:53 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:31:53 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:32:02 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:32:02 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:32:05 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:32:05 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:32:14 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:32:14 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:32:17 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:32:17 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:32:20 INFO  [main] Utility.SFDCListeners SFDCListeners.java77 - Test-Firefox
+20250328 21:32:20 INFO  [main] Utility.SFDCListeners SFDCListeners.java78 - class org.testng.TestRunner
+20250328 21:32:20 INFO  [main] Utility.SFDCListeners SFDCListeners.java26 - Suite-Chrome endedfor SFDC Developers Edition Web App Testing.
+20250328 21:40:12 INFO  [main] Utility.SFDCListeners SFDCListeners.java20 - Suite-Chrome started for SFDC Developers Edition Web App Testing.
+20250328 21:40:12 INFO  [main] Utility.SFDCListeners SFDCListeners.java68 - Test-Chrome
+20250328 21:40:12 INFO  [main] Utility.SFDCListeners SFDCListeners.java69 - class org.testng.TestRunner
+20250328 21:40:12 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250328 21:40:12 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250328 21:40:12 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250328 21:40:17 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:40:17 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:40:20 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:40:21 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:40:27 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:40:27 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:40:30 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:40:30 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:40:41 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:40:41 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:40:44 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:40:44 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:40:50 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:40:50 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:40:53 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:40:54 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:41:01 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:41:01 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:41:04 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:41:05 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:41:11 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:41:11 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:41:14 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:41:15 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:41:22 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:41:22 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:41:25 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:41:26 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:41:32 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:41:32 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:41:35 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:41:35 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:41:41 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:41:41 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:41:44 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:41:44 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:41:50 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:41:50 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:41:53 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:41:53 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:41:57 INFO  [main] Utility.SFDCListeners SFDCListeners.java77 - Test-Chrome
+20250328 21:41:57 INFO  [main] Utility.SFDCListeners SFDCListeners.java78 - class org.testng.TestRunner
+20250328 21:41:57 INFO  [main] Utility.SFDCListeners SFDCListeners.java68 - Test-Firefox
+20250328 21:41:57 INFO  [main] Utility.SFDCListeners SFDCListeners.java69 - class org.testng.TestRunner
+20250328 21:41:57 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250328 21:41:57 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250328 21:41:57 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250328 21:42:02 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:42:02 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:42:05 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:42:05 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:43:25 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:43:25 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:43:28 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:43:28 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:43:37 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:43:37 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:43:40 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:43:40 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:43:48 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:43:48 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:43:51 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:43:51 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:44:01 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:44:01 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:44:04 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:44:04 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:44:13 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:44:13 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:44:16 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:44:16 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:44:26 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:44:26 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:44:29 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:44:29 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:44:40 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:44:40 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:44:43 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:44:43 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:44:51 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:44:51 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:44:54 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:44:54 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:45:05 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:45:05 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:45:08 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:45:08 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:45:12 INFO  [main] Utility.SFDCListeners SFDCListeners.java77 - Test-Firefox
+20250328 21:45:12 INFO  [main] Utility.SFDCListeners SFDCListeners.java78 - class org.testng.TestRunner
+20250328 21:45:12 INFO  [main] Utility.SFDCListeners SFDCListeners.java26 - Suite-Chrome endedfor SFDC Developers Edition Web App Testing.
+20250328 21:48:52 INFO  [main] Utility.SFDCListeners SFDCListeners.java20 - Suite-Chrome started for SFDC Developers Edition Web App Testing.
+20250328 21:48:52 INFO  [main] Utility.SFDCListeners SFDCListeners.java68 - Test-Chrome
+20250328 21:48:52 INFO  [main] Utility.SFDCListeners SFDCListeners.java69 - class org.testng.TestRunner
+20250328 21:48:52 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250328 21:48:52 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250328 21:48:52 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250328 21:48:56 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:48:56 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:49:10 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - loginTest
+20250328 21:49:16 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:49:16 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:49:30 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - loginTest
+20250328 21:49:36 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:49:36 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:49:56 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - loginTest
+20250328 21:50:06 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:50:06 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:50:15 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - loginTest
+20250328 21:50:21 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:50:21 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:50:36 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - loginTest
+20250328 21:50:42 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:50:42 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:50:58 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - loginTest
+20250328 21:51:05 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:51:05 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:51:21 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - loginTest
+20250328 21:51:27 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:51:27 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:51:35 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - loginTest
+20250328 21:51:41 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:51:41 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:51:49 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - loginTest
+20250328 21:51:55 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:51:55 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:52:10 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - loginTest
+20250328 21:52:13 INFO  [main] Utility.SFDCListeners SFDCListeners.java77 - Test-Chrome
+20250328 21:52:13 INFO  [main] Utility.SFDCListeners SFDCListeners.java78 - class org.testng.TestRunner
+20250328 21:52:13 INFO  [main] Utility.SFDCListeners SFDCListeners.java68 - Test-Firefox
+20250328 21:52:13 INFO  [main] Utility.SFDCListeners SFDCListeners.java69 - class org.testng.TestRunner
+20250328 21:52:13 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250328 21:52:13 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250328 21:52:13 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250328 21:52:19 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:52:19 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:52:28 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - loginTest
+20250328 21:52:28 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 21:52:36 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:52:36 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:52:45 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - loginTest
+20250328 21:52:54 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:52:54 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:53:03 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - loginTest
+20250328 21:53:11 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:53:11 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:53:20 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - loginTest
+20250328 21:53:29 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:53:29 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:53:38 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - loginTest
+20250328 21:53:46 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:53:46 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:53:54 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - loginTest
+20250328 21:54:04 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:54:04 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:54:12 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - loginTest
+20250328 21:54:21 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:54:21 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:54:30 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - loginTest
+20250328 21:54:39 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:54:39 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:54:48 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - loginTest
+20250328 21:54:56 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - loginTest Using getmethod().getmethodName()
+20250328 21:54:56 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - loginTest Using getName()
+20250328 21:55:05 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - loginTest
+20250328 21:55:09 INFO  [main] Utility.SFDCListeners SFDCListeners.java77 - Test-Firefox
+20250328 21:55:09 INFO  [main] Utility.SFDCListeners SFDCListeners.java78 - class org.testng.TestRunner
+20250328 21:55:09 INFO  [main] Utility.SFDCListeners SFDCListeners.java26 - Suite-Chrome endedfor SFDC Developers Edition Web App Testing.
+20250328 23:04:18 INFO  [main] Utility.SFDCListeners SFDCListeners.java20 - Suite-Chrome started for SFDC Developers Edition Web App Testing.
+20250328 23:04:18 INFO  [main] Utility.SFDCListeners SFDCListeners.java68 - Test-Chrome
+20250328 23:04:18 INFO  [main] Utility.SFDCListeners SFDCListeners.java69 - class org.testng.TestRunner
+20250328 23:04:18 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250328 23:04:18 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250328 23:04:18 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250328 23:04:24 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - invalidLoginTest Using getmethod().getmethodName()
+20250328 23:04:24 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - invalidLoginTest Using getName()
+20250328 23:04:30 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - invalidLoginTest
+20250328 23:04:40 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - invalidLoginTest Using getmethod().getmethodName()
+20250328 23:04:40 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - invalidLoginTest Using getName()
+20250328 23:04:52 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - invalidLoginTest
+20250328 23:04:58 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - invalidLoginTest Using getmethod().getmethodName()
+20250328 23:04:58 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - invalidLoginTest Using getName()
+20250328 23:05:04 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - invalidLoginTest
+20250328 23:05:10 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - invalidLoginTest Using getmethod().getmethodName()
+20250328 23:05:10 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - invalidLoginTest Using getName()
+20250328 23:05:22 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - invalidLoginTest
+20250328 23:05:28 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - invalidLoginTest Using getmethod().getmethodName()
+20250328 23:05:28 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - invalidLoginTest Using getName()
+20250328 23:05:39 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - invalidLoginTest
+20250328 23:05:45 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - invalidLoginTest Using getmethod().getmethodName()
+20250328 23:05:45 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - invalidLoginTest Using getName()
+20250328 23:05:58 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - invalidLoginTest
+20250328 23:06:04 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - invalidLoginTest Using getmethod().getmethodName()
+20250328 23:06:04 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - invalidLoginTest Using getName()
+20250328 23:06:09 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - invalidLoginTest
+20250328 23:06:15 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - invalidLoginTest Using getmethod().getmethodName()
+20250328 23:06:15 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - invalidLoginTest Using getName()
+20250328 23:06:21 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - invalidLoginTest
+20250328 23:06:27 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - invalidLoginTest Using getmethod().getmethodName()
+20250328 23:06:27 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - invalidLoginTest Using getName()
+20250328 23:06:39 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - invalidLoginTest
+20250328 23:06:42 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250328 23:06:42 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250328 23:06:42 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250328 23:06:45 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - validLoginTest Using getmethod().getmethodName()
+20250328 23:06:45 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - validLoginTest Using getName()
+20250328 23:06:53 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - validLoginTest
+20250328 23:06:56 INFO  [main] Utility.SFDCListeners SFDCListeners.java77 - Test-Chrome
+20250328 23:06:56 INFO  [main] Utility.SFDCListeners SFDCListeners.java78 - class org.testng.TestRunner
+20250328 23:06:56 INFO  [main] Utility.SFDCListeners SFDCListeners.java68 - Test-Firefox
+20250328 23:06:56 INFO  [main] Utility.SFDCListeners SFDCListeners.java69 - class org.testng.TestRunner
+20250328 23:06:56 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250328 23:06:56 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250328 23:06:56 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250328 23:07:05 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - invalidLoginTest Using getmethod().getmethodName()
+20250328 23:07:05 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - invalidLoginTest Using getName()
+20250328 23:07:10 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - invalidLoginTest
+20250328 23:07:18 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - invalidLoginTest Using getmethod().getmethodName()
+20250328 23:07:18 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - invalidLoginTest Using getName()
+20250328 23:07:24 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - invalidLoginTest
+20250328 23:07:33 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - invalidLoginTest Using getmethod().getmethodName()
+20250328 23:07:33 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - invalidLoginTest Using getName()
+20250328 23:07:39 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - invalidLoginTest
+20250328 23:07:48 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - invalidLoginTest Using getmethod().getmethodName()
+20250328 23:07:48 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - invalidLoginTest Using getName()
+20250328 23:07:54 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - invalidLoginTest
+20250328 23:08:04 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - invalidLoginTest Using getmethod().getmethodName()
+20250328 23:08:04 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - invalidLoginTest Using getName()
+20250328 23:08:10 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - invalidLoginTest
+20250328 23:08:19 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - invalidLoginTest Using getmethod().getmethodName()
+20250328 23:08:19 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - invalidLoginTest Using getName()
+20250328 23:08:24 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - invalidLoginTest
+20250328 23:08:33 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - invalidLoginTest Using getmethod().getmethodName()
+20250328 23:08:33 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - invalidLoginTest Using getName()
+20250328 23:08:39 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - invalidLoginTest
+20250328 23:08:47 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - invalidLoginTest Using getmethod().getmethodName()
+20250328 23:08:47 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - invalidLoginTest Using getName()
+20250328 23:08:52 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - invalidLoginTest
+20250328 23:09:01 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - invalidLoginTest Using getmethod().getmethodName()
+20250328 23:09:01 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - invalidLoginTest Using getName()
+20250328 23:09:06 INFO  [main] Utility.SFDCListeners SFDCListeners.java42 - invalidLoginTest
+20250328 23:09:10 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250328 23:09:10 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250328 23:09:10 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250328 23:09:15 INFO  [main] Utility.SFDCListeners SFDCListeners.java33 - validLoginTest Using getmethod().getmethodName()
+20250328 23:09:15 INFO  [main] Utility.SFDCListeners SFDCListeners.java34 - validLoginTest Using getName()
+20250328 23:09:21 ERROR [main] Utility.SFDCListeners SFDCListeners.java49 - validLoginTest
+20250328 23:09:21 INFO  [main] Base.BaseTest BaseTest.java258 - Screen captured
+20250328 23:09:25 INFO  [main] Utility.SFDCListeners SFDCListeners.java77 - Test-Firefox
+20250328 23:09:25 INFO  [main] Utility.SFDCListeners SFDCListeners.java78 - class org.testng.TestRunner
+20250328 23:09:25 INFO  [main] Utility.SFDCListeners SFDCListeners.java26 - Suite-Chrome endedfor SFDC Developers Edition Web App Testing.
+20250329 17:01:21 INFO  [main] Tests.NavigationTest NavigationTest.java31 - My Profile
+20250329 17:01:21 INFO  [main] Tests.NavigationTest NavigationTest.java31 - My Settings
+20250329 17:01:21 INFO  [main] Tests.NavigationTest NavigationTest.java31 - Developer Console
+20250329 17:01:21 INFO  [main] Tests.NavigationTest NavigationTest.java31 - Switch to Lightning Experience
+20250329 17:01:21 INFO  [main] Tests.NavigationTest NavigationTest.java31 - Logout
+20250330 02:53:25 INFO  [main] Tests.MyProfileTest MyProfileTest.java57 -  Panneer
+20250330 03:01:29 INFO  [main] Tests.MyProfileTest MyProfileTest.java53 - Amirtha
+20250330 03:01:31 INFO  [main] Tests.MyProfileTest MyProfileTest.java58 - Amirtha Panneer
+20250330 03:11:44 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 - Show people who you are. You might get more followers with a photo!
+20250330 03:11:44 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 - Testing after page refresh
+20250330 03:11:44 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 - Testing after page refresh
+20250330 03:11:44 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 - Testing after page refresh
+20250330 03:11:44 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 - Testing after page refresh
+20250330 03:11:44 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 - Testing after page refresh
+20250330 03:11:44 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 - Testing after page refresh
+20250330 03:11:44 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 - Testing after page refresh
+20250330 03:11:44 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 - Testing after page refresh
+20250330 03:11:44 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 - Testing after page refresh
+20250330 03:11:44 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 - Testing after page refresh
+20250330 03:11:44 INFO  [main] Tests.MyProfileTest MyProfileTest.java97 - Test passedTesting after page refresh
+20250330 20:10:54 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 - Show people who you are. You might get more followers with a photo!
+20250330 20:10:54 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 -  
+20250330 20:10:54 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 -  Hybrid Framework using Testng, Java design pattern singleton and Modularity implemtation Testing after page refresh
+20250330 20:10:54 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 - Testing after page refresh
+20250330 20:10:54 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 - Testing after page refresh
+20250330 20:10:54 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 - Testing after page refresh
+20250330 20:10:54 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 - Testing after page refresh
+20250330 20:10:54 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 - Testing after page refresh
+20250330 20:10:54 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 - Testing after page refresh
+20250330 20:10:54 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 - Testing after page refresh
+20250330 20:10:54 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 - Testing after page refresh
+20250330 20:10:54 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 - Testing after page refresh
+20250330 20:14:05 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 - Show people who you are. You might get more followers with a photo!
+20250330 20:14:05 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 -  
+20250330 20:14:05 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 -  Hybrid Framework using Testng, Java design pattern singleton and Modularity implemtation Testing after page refresh
+20250330 20:14:05 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 -  
+20250330 20:14:05 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 -  Hybrid Framework using Testng, Java design pattern singleton and Modularity implemtation Testing after page refresh
+20250330 20:14:05 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 - Testing after page refresh
+20250330 20:14:05 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 - Testing after page refresh
+20250330 20:14:05 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 - Testing after page refresh
+20250330 20:14:05 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 - Testing after page refresh
+20250330 20:14:05 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 - Testing after page refresh
+20250330 20:14:05 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 - Testing after page refresh
+20250330 20:14:05 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 - Testing after page refresh
+20250330 20:14:05 INFO  [main] Tests.MyProfileTest MyProfileTest.java93 - Testing after page refresh
+20250330 20:23:09 INFO  [main] Tests.MyProfileTest MyProfileTest.java95 - Hybrid Framework using Testng, Java design pattern singleton and Modularity implemtation Testing after page refresh
+20250330 20:23:09 INFO  [main] Tests.MyProfileTest MyProfileTest.java96 - Hybrid Framework using Testng, Java design pattern singleton and Modularity implemtation Testing after page refresh
+20250331 09:55:14 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250331 09:55:14 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250331 09:55:14 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250331 09:56:11 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250331 09:56:11 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250331 09:56:11 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250331 09:57:15 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250331 09:57:15 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250331 09:57:15 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250331 09:57:38 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250331 09:57:38 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250331 09:57:38 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250331 10:01:12 INFO  [main] Utility.SFDCListeners SFDCListeners.java18 - Chrome-Suite started for SFDC Developers Edition Web App Testing.
+20250331 10:01:12 INFO  [main] Utility.SFDCListeners SFDCListeners.java65 - ChromeTest
+20250331 10:01:12 INFO  [main] Utility.SFDCListeners SFDCListeners.java66 - class org.testng.TestRunner
+20250331 10:01:16 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - userDropdown Using getName()
+20250331 10:01:16 ERROR [main] Utility.SFDCListeners SFDCListeners.java46 - userDropdown
+20250331 10:01:16 INFO  [main] Base.BaseTest BaseTest.java263 - Screen captured
+20250331 10:01:22 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - aboutTabTest Using getName()
+20250331 10:01:22 ERROR [main] Utility.SFDCListeners SFDCListeners.java46 - aboutTabTest
+20250331 10:01:22 INFO  [main] Base.BaseTest BaseTest.java263 - Screen captured
+20250331 10:01:25 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - editIframeTest Using getName()
+20250331 10:01:25 WARN  [main] Utility.SFDCListeners SFDCListeners.java57 - editIframeTest skiped...........................
+20250331 10:01:25 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - postLinkTest Using getName()
+20250331 10:01:25 WARN  [main] Utility.SFDCListeners SFDCListeners.java57 - postLinkTest skiped...........................
+20250331 10:01:25 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - profilePageTest Using getName()
+20250331 10:01:25 WARN  [main] Utility.SFDCListeners SFDCListeners.java57 - profilePageTest skiped...........................
+20250331 10:01:25 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - uploadFile Using getName()
+20250331 10:01:25 WARN  [main] Utility.SFDCListeners SFDCListeners.java57 - uploadFile skiped...........................
+20250331 10:01:25 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250331 10:01:25 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250331 10:01:25 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250331 10:01:28 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - invalidLoginTest Using getName()
+20250331 10:01:28 ERROR [main] Utility.SFDCListeners SFDCListeners.java46 - invalidLoginTest
+20250331 10:01:29 INFO  [main] Base.BaseTest BaseTest.java263 - Screen captured
+20250331 10:01:35 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - invalidLoginTest Using getName()
+20250331 10:01:35 ERROR [main] Utility.SFDCListeners SFDCListeners.java46 - invalidLoginTest
+20250331 10:01:35 INFO  [main] Base.BaseTest BaseTest.java263 - Screen captured
+20250331 10:01:41 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - invalidLoginTest Using getName()
+20250331 10:01:41 ERROR [main] Utility.SFDCListeners SFDCListeners.java46 - invalidLoginTest
+20250331 10:01:41 INFO  [main] Base.BaseTest BaseTest.java263 - Screen captured
+20250331 10:01:49 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - invalidLoginTest Using getName()
+20250331 10:01:49 ERROR [main] Utility.SFDCListeners SFDCListeners.java46 - invalidLoginTest
+20250331 10:01:49 INFO  [main] Base.BaseTest BaseTest.java263 - Screen captured
+20250331 10:01:55 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - invalidLoginTest Using getName()
+20250331 10:01:55 ERROR [main] Utility.SFDCListeners SFDCListeners.java46 - invalidLoginTest
+20250331 10:01:55 INFO  [main] Base.BaseTest BaseTest.java263 - Screen captured
+20250331 10:02:01 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - invalidLoginTest Using getName()
+20250331 10:02:01 ERROR [main] Utility.SFDCListeners SFDCListeners.java46 - invalidLoginTest
+20250331 10:02:01 INFO  [main] Base.BaseTest BaseTest.java263 - Screen captured
+20250331 10:02:07 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - invalidLoginTest Using getName()
+20250331 10:02:07 ERROR [main] Utility.SFDCListeners SFDCListeners.java46 - invalidLoginTest
+20250331 10:02:07 INFO  [main] Base.BaseTest BaseTest.java263 - Screen captured
+20250331 10:02:13 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - invalidLoginTest Using getName()
+20250331 10:02:13 ERROR [main] Utility.SFDCListeners SFDCListeners.java46 - invalidLoginTest
+20250331 10:02:13 INFO  [main] Base.BaseTest BaseTest.java263 - Screen captured
+20250331 10:02:19 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - invalidLoginTest Using getName()
+20250331 10:02:19 ERROR [main] Utility.SFDCListeners SFDCListeners.java46 - invalidLoginTest
+20250331 10:02:19 INFO  [main] Base.BaseTest BaseTest.java263 - Screen captured
+20250331 10:02:22 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250331 10:02:22 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250331 10:02:22 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250331 10:02:25 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - validLoginTest Using getName()
+20250331 10:02:25 ERROR [main] Utility.SFDCListeners SFDCListeners.java46 - validLoginTest
+20250331 10:02:25 INFO  [main] Base.BaseTest BaseTest.java263 - Screen captured
+20250331 10:02:29 INFO  [main] Utility.SFDCListeners SFDCListeners.java74 - ChromeTest
+20250331 10:02:29 INFO  [main] Utility.SFDCListeners SFDCListeners.java75 - class org.testng.TestRunner
+20250331 10:02:29 INFO  [main] Utility.SFDCListeners SFDCListeners.java24 - Chrome-Suite endedfor SFDC Developers Edition Web App Testing.
+20250331 10:06:41 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250331 10:06:41 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250331 10:06:41 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250331 10:07:38 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250331 10:07:38 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250331 10:07:38 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250331 10:08:28 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250331 10:08:28 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250331 10:08:28 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250331 10:11:00 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250331 10:11:00 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250331 10:11:00 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250331 10:16:57 INFO  [main] Utility.SFDCListeners SFDCListeners.java18 - ChromeSuite started for SFDC Developers Edition Web App Testing.
+20250331 10:16:57 INFO  [main] Utility.SFDCListeners SFDCListeners.java65 - Test
+20250331 10:16:57 INFO  [main] Utility.SFDCListeners SFDCListeners.java66 - class org.testng.TestRunner
+20250331 10:16:57 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250331 10:16:57 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250331 10:16:57 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250331 10:17:02 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - invalidLoginTest Using getName()
+20250331 10:17:13 INFO  [main] Utility.SFDCListeners SFDCListeners.java39 - invalidLoginTest
+20250331 10:17:19 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - invalidLoginTest Using getName()
+20250331 10:17:31 INFO  [main] Utility.SFDCListeners SFDCListeners.java39 - invalidLoginTest
+20250331 10:17:37 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - invalidLoginTest Using getName()
+20250331 10:17:43 INFO  [main] Utility.SFDCListeners SFDCListeners.java39 - invalidLoginTest
+20250331 10:17:51 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - invalidLoginTest Using getName()
+20250331 10:18:07 INFO  [main] Utility.SFDCListeners SFDCListeners.java39 - invalidLoginTest
+20250331 10:18:14 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - invalidLoginTest Using getName()
+20250331 10:18:26 INFO  [main] Utility.SFDCListeners SFDCListeners.java39 - invalidLoginTest
+20250331 10:18:33 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - invalidLoginTest Using getName()
+20250331 10:18:45 INFO  [main] Utility.SFDCListeners SFDCListeners.java39 - invalidLoginTest
+20250331 10:18:53 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - invalidLoginTest Using getName()
+20250331 10:18:59 INFO  [main] Utility.SFDCListeners SFDCListeners.java39 - invalidLoginTest
+20250331 10:19:05 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - invalidLoginTest Using getName()
+20250331 10:19:15 INFO  [main] Utility.SFDCListeners SFDCListeners.java39 - invalidLoginTest
+20250331 10:19:21 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - invalidLoginTest Using getName()
+20250331 10:19:38 INFO  [main] Utility.SFDCListeners SFDCListeners.java39 - invalidLoginTest
+20250331 10:19:41 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250331 10:19:41 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250331 10:19:41 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250331 10:19:44 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - validLoginTest Using getName()
+20250331 10:19:55 ERROR [main] Utility.SFDCListeners SFDCListeners.java46 - validLoginTest
+20250331 10:19:57 INFO  [main] Base.BaseTest BaseTest.java263 - Screen captured
+20250331 10:20:00 INFO  [main] Utility.SFDCListeners SFDCListeners.java74 - Test
+20250331 10:20:00 INFO  [main] Utility.SFDCListeners SFDCListeners.java75 - class org.testng.TestRunner
+20250331 10:20:00 INFO  [main] Utility.SFDCListeners SFDCListeners.java65 - FirefoxSuite
+20250331 10:20:00 INFO  [main] Utility.SFDCListeners SFDCListeners.java66 - class org.testng.TestRunner
+20250331 10:20:08 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - userDropdown Using getName()
+20250331 10:20:08 ERROR [main] Utility.SFDCListeners SFDCListeners.java46 - userDropdown
+20250331 10:20:08 INFO  [main] Base.BaseTest BaseTest.java263 - Screen captured
+20250331 10:20:18 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - aboutTabTest Using getName()
+20250331 10:21:08 INFO  [main] Tests.MyProfileTest MyProfileTest.java59 - Amirtha
+20250331 10:21:10 INFO  [main] Tests.MyProfileTest MyProfileTest.java64 - Amirtha Panneer
+20250331 10:21:18 INFO  [main] Utility.SFDCListeners SFDCListeners.java39 - aboutTabTest
+20250331 10:21:26 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - editIframeTest Using getName()
+20250331 10:22:15 INFO  [main] Utility.SFDCListeners SFDCListeners.java39 - editIframeTest
+20250331 10:22:24 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - postLinkTest Using getName()
+20250331 10:23:16 ERROR [main] Utility.SFDCListeners SFDCListeners.java46 - postLinkTest
+20250331 10:23:16 INFO  [main] Base.BaseTest BaseTest.java263 - Screen captured
+20250331 10:23:25 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - profilePageTest Using getName()
+20250331 10:23:40 INFO  [main] Utility.SFDCListeners SFDCListeners.java39 - profilePageTest
+20250331 10:23:48 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - uploadFile Using getName()
+20250331 10:24:09 ERROR [main] Utility.SFDCListeners SFDCListeners.java46 - uploadFile
+20250331 10:24:10 INFO  [main] Base.BaseTest BaseTest.java263 - Screen captured
+20250331 10:24:14 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250331 10:24:14 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250331 10:24:14 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250331 10:24:20 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - invalidLoginTest Using getName()
+20250331 10:24:25 INFO  [main] Utility.SFDCListeners SFDCListeners.java39 - invalidLoginTest
+20250331 10:24:34 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - invalidLoginTest Using getName()
+20250331 10:24:40 INFO  [main] Utility.SFDCListeners SFDCListeners.java39 - invalidLoginTest
+20250331 10:24:48 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - invalidLoginTest Using getName()
+20250331 10:24:54 INFO  [main] Utility.SFDCListeners SFDCListeners.java39 - invalidLoginTest
+20250331 10:25:03 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - invalidLoginTest Using getName()
+20250331 10:25:09 INFO  [main] Utility.SFDCListeners SFDCListeners.java39 - invalidLoginTest
+20250331 10:25:22 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - invalidLoginTest Using getName()
+20250331 10:25:28 INFO  [main] Utility.SFDCListeners SFDCListeners.java39 - invalidLoginTest
+20250331 10:25:37 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - invalidLoginTest Using getName()
+20250331 10:25:42 INFO  [main] Utility.SFDCListeners SFDCListeners.java39 - invalidLoginTest
+20250331 10:25:51 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - invalidLoginTest Using getName()
+20250331 10:25:57 INFO  [main] Utility.SFDCListeners SFDCListeners.java39 - invalidLoginTest
+20250331 10:26:06 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - invalidLoginTest Using getName()
+20250331 10:26:12 INFO  [main] Utility.SFDCListeners SFDCListeners.java39 - invalidLoginTest
+20250331 10:26:21 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - invalidLoginTest Using getName()
+20250331 10:26:26 INFO  [main] Utility.SFDCListeners SFDCListeners.java39 - invalidLoginTest
+20250331 10:26:30 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250331 10:26:30 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250331 10:26:30 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250331 10:26:36 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - validLoginTest Using getName()
+20250331 10:26:41 ERROR [main] Utility.SFDCListeners SFDCListeners.java46 - validLoginTest
+20250331 10:26:41 INFO  [main] Base.BaseTest BaseTest.java263 - Screen captured
+20250331 10:26:45 INFO  [main] Utility.SFDCListeners SFDCListeners.java74 - FirefoxSuite
+20250331 10:26:45 INFO  [main] Utility.SFDCListeners SFDCListeners.java75 - class org.testng.TestRunner
+20250331 10:26:45 INFO  [main] Utility.SFDCListeners SFDCListeners.java24 - ChromeSuite endedfor SFDC Developers Edition Web App Testing.
+20250331 17:45:39 INFO  [main] Tests.MyProfileTest MyProfileTest.java61 - Amirtha
+20250331 17:45:41 INFO  [main] Tests.MyProfileTest MyProfileTest.java66 - Amirtha Panneer
+20250403 12:53:15 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250403 12:53:15 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250403 12:53:15 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250403 12:54:23 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+20250403 12:54:23 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20250403 12:54:23 DEBUG [main] opc.PackageRelationshipCollection PackageRelationshipCollection.java307 - Parsing relationship: /_rels/.rels
+20250403 22:03:11 INFO  [main] Utility.SFDCListeners SFDCListeners.java18 - Suite started for SFDC Developers Edition Web App Testing.
+20250403 22:03:11 INFO  [main] Utility.SFDCListeners SFDCListeners.java65 - Test
+20250403 22:03:11 INFO  [main] Utility.SFDCListeners SFDCListeners.java66 - class org.testng.TestRunner
+20250403 22:03:16 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - calendarTest Using getName()
+20250403 22:03:53 INFO  [main] Utility.SFDCListeners SFDCListeners.java39 - calendarTest
+20250403 22:04:00 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - developerConsolseTest Using getName()
+20250403 22:04:11 INFO  [main] Utility.SFDCListeners SFDCListeners.java39 - developerConsolseTest
+20250403 22:04:17 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - displayLayoutTest Using getName()
+20250403 22:05:08 ERROR [main] Utility.SFDCListeners SFDCListeners.java46 - displayLayoutTest
+20250403 22:05:08 INFO  [main] Base.BaseTest BaseTest.java268 - Screen captured
+20250403 22:05:14 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - downloadLoginHistoryTest Using getName()
+20250403 22:06:00 ERROR [main] Utility.SFDCListeners SFDCListeners.java46 - downloadLoginHistoryTest
+20250403 22:06:01 INFO  [main] Base.BaseTest BaseTest.java268 - Screen captured
+20250403 22:06:07 INFO  [main] Utility.SFDCListeners SFDCListeners.java32 - mySettingPageTest Using getName()
+20250403 22:06:28 INFO  [main] Utility.SFDCListeners SFDCListeners.java39 - mySettingPageTest
+20250403 22:06:31 INFO  [main] Utility.SFDCListeners SFDCListeners.java74 - Test
+20250403 22:06:31 INFO  [main] Utility.SFDCListeners SFDCListeners.java75 - class org.testng.TestRunner
+20250403 22:06:31 INFO  [main] Utility.SFDCListeners SFDCListeners.java24 - Suite endedfor SFDC Developers Edition Web App Testing.
+20250407 18:35:36 INFO  [main] Tests.NavigationTest NavigationTest.java29 - My Profile
+20250407 18:35:36 INFO  [main] Tests.NavigationTest NavigationTest.java29 - My Settings
+20250407 18:35:36 INFO  [main] Tests.NavigationTest NavigationTest.java29 - Developer Console
+20250407 18:35:36 INFO  [main] Tests.NavigationTest NavigationTest.java29 - Switch to Lightning Experience
+20250407 18:35:36 INFO  [main] Tests.NavigationTest NavigationTest.java29 - Logout
+20250407 18:40:59 INFO  [main] Tests.NavigationTest NavigationTest.java29 - My Profile
+20250407 18:40:59 INFO  [main] Tests.NavigationTest NavigationTest.java29 - My Settings
+20250407 18:40:59 INFO  [main] Tests.NavigationTest NavigationTest.java29 - Developer Console
+20250407 18:40:59 INFO  [main] Tests.NavigationTest NavigationTest.java29 - Switch to Lightning Experience
+20250407 18:40:59 INFO  [main] Tests.NavigationTest NavigationTest.java29 - Logout
+20250408 02:24:43 INFO  [main] Tests.MyProfileTest MyProfileTest.java46 - Amirtha
+20250408 02:24:45 INFO  [main] Tests.MyProfileTest MyProfileTest.java51 - Amirtha Panneer
+20250408 16:26:39 INFO  [main] Tests.MyProfileTest MyProfileTest.java46 - Amirtha
+20250408 16:26:41 INFO  [main] Tests.MyProfileTest MyProfileTest.java51 - Amirtha Panneer

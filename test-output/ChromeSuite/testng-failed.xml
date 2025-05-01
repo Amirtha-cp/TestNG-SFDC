@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ChromeSuite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.Automation.Utility.SFDCListeners"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.Automation.Tests.LoginTest">
+        <methods>
+          <include name="setUpBeforeMethod"/>
+          <include name="tearDownAfterMethod"/>
+          <include name="validLoginTest" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.Automation.Tests.LoginTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+  <test thread-count="5" name="FirefoxSuite(failed)">
+    <parameter name="browserName" value="firefox"/>
+    <classes>
+      <class name="com.Automation.Tests.NavigationTest">
+        <methods>
+          <include name="setUpBeforeMethod"/>
+          <include name="tearDownAfterMethod"/>
+          <include name="userDropdown"/>
+        </methods>
+      </class> <!-- com.Automation.Tests.NavigationTest -->
+      <class name="com.Automation.Tests.MyProfileTest">
+        <methods>
+          <include name="setUpBeforeMethod"/>
+          <include name="uploadFile"/>
+          <include name="tearDownAfterMethod"/>
+          <include name="postLinkTest"/>
+        </methods>
+      </class> <!-- com.Automation.Tests.MyProfileTest -->
+      <class name="com.Automation.Tests.LoginTest">
+        <methods>
+          <include name="setUpBeforeMethod"/>
+          <include name="tearDownAfterMethod"/>
+          <include name="validLoginTest" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.Automation.Tests.LoginTest -->
+    </classes>
+  </test> <!-- FirefoxSuite(failed) -->
+</suite> <!-- Failed suite [ChromeSuite] -->

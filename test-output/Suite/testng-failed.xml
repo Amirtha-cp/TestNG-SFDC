@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.Automation.Utility.SFDCListeners"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="browserName" value="chrome"/>
+    <classes>
+      <class name="com.Automation.Tests.MySettingsTest">
+        <methods>
+          <include name="downloadLoginHistoryTest"/>
+          <include name="displayLayoutTest"/>
+          <include name="setUpBeforeMethod"/>
+          <include name="tearDownAfterMethod"/>
+        </methods>
+      </class> <!-- com.Automation.Tests.MySettingsTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

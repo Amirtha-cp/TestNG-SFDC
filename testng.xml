@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Chrome-Suite">
+<listeners>
+	<listener class-name="com.Automation.Utility.SFDCListeners"/>
+</listeners>
+  <test  name="ChromeTest">
+  <parameter name="browserName" value="chrome"/>
+    <classes>
+      <class name="com.Automation.Tests.NavigationTest"/>
+      <class name="com.Automation.Tests.MyProfileTest"/>
+      <class name="com.Automation.Tests.LoginTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+
+<!--  <test  name="FirefoxTest">
+  <parameter name="browserName" value="firefox"/>
+    <classes>
+      <class name="com.Automation.Tests.NavigationTest"/>
+      <class name="com.Automation.Tests.MyProfileTest"/>
+      <class name="com.Automation.Tests.LoginTest"/>
+    </classes>
+  </test>  Test 
+</suite> Suite -->
